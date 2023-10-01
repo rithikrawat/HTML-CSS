@@ -1,0 +1,44 @@
+body
+{
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0px;
+}
+
+#ISRO
+{
+    width: 100px;
+}
+
+#Hero
+{
+    background-image: url(Images/GALAXY.gif);
+    background-size: cover;
+    padding: 10px 0px 350px;
+}
+
+#title
+{
+    text-shadow: 0px 0px 4px white;
+}
+
+.btn
+{
+   border: none;
+   padding: 6px 12px;
+   color: black;
+   font-weight: 800;
+   font-family: inherit;
+   color: #82a5ca;
+}
+
+#underline
+{
+    border-bottom: 4px solid white;
+}
+
+
+
+
+

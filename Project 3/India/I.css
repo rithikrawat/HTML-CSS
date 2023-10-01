@@ -1,0 +1,21 @@
+body
+{
+    margin: 0px;
+}
+.orange
+{
+    background: orange;
+    height: 219px;
+}
+
+.white
+{
+    background: white;
+    height: 219px;
+}
+
+.green
+{
+    background: green;
+    height: 219px;
+}
